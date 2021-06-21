@@ -2,12 +2,12 @@
 Qui peut separer la terre en 3
 |Photo                       |À propos                      |
 |-------------------------------|-----------------------------|
-![kkk](https://thumbs.dreamstime.com/z/portrait-de-belle-fille-avec-le-dragon-chevalier-f%C3%A9minin-dans-l-armure-illustration-vecteur-esth%C3%A9tique-m%C3%A9di%C3%A9vale-pouvoir-172504350.jpg)| . Ancienne photo 2020
+![kkk](https://thumbs.dreamstime.com/z/portrait-de-belle-fille-avec-le-dragon-chevalier-f%C3%A9minin-dans-l-armure-illustration-vecteur-esth%C3%A9tique-m%C3%A9di%C3%A9vale-pouvoir-172504350.jpg)| . Dessin animée  d'une représentation fantastique
 # Information personnelles
 - Nom|Prénom : EVAN--TERRENTROY MAEVA   
-- Nom de naissance : 24 JUIN 2001
-- Naissance : Saint-pierre
-- Nationalitée : Française 
+- Nom de naissance: TERRENTROY
+- Naissance : 2001
+- Nationalitée : Françaie 
 - Profession : Développeur Junior
 # Présentation de la formation 
 |Logo Simplon                      |Titre de la formation    |
